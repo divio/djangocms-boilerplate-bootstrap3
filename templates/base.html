@@ -24,9 +24,11 @@
   <body>
     {% cms_toolbar %}
 
-    <ul class="nav navbar-nav">
-      {% show_menu 0 0 100 100 %}
-    </ul>
+    <nav class="navbar navbar-default">
+      <ul class="nav navbar-nav">
+        {% show_menu 0 0 100 100 %}
+      </ul>
+    </nav>
 
     {% block content %}
       <p>Hello world! This is the Bootstrap 3 Boilerplate.</p>
