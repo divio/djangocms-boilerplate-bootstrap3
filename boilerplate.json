@@ -1,0 +1,9 @@
+{
+    "identifier": "bootstrap3",
+    "package-name": "djangocms-bootstrap3",
+    "version": "0.1.0",
+    "templates": [
+        ["content.html", "content"]
+    ],
+    "protected": []
+}
