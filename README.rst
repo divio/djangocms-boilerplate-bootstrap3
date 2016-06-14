@@ -22,5 +22,5 @@ Documentation
 -------------
 
 You can find additional documentation on the django CMS within the `Aldryn Bootstrap Boilerplate
-<https://aldryn-boilerplate-bootstrap3.readthedocs.org>`_ or the `django CMS Documentation
-<https://django-cms.readthedocs.org>`_.
+<https://aldryn-boilerplate-bootstrap3.readthedocs.io>`_ or the `django CMS Documentation
+<https://django-cms.readthedocs.io>`_.
