@@ -10,7 +10,7 @@ shapes, and projects of all sizes.
 
 Up to date with `Bootstrap <http://getbootstrap.com/>`_ **3.3.6**.
 
-This boilerplate is compatible with `Aldryn <http://www.aldryn.com/>`_.
+This boilerplate is compatible with `Divio Cloud <http://www.divio.com/>`_.
 
 .. note::
 
@@ -21,6 +21,6 @@ This boilerplate is compatible with `Aldryn <http://www.aldryn.com/>`_.
 Documentation
 -------------
 
-You can find additional documentation on the django CMS within the `Aldryn Bootstrap Boilerplate
+You can find additional documentation on the django CMS within the `django CMS Bootstrap Boilerplate
 <https://aldryn-boilerplate-bootstrap3.readthedocs.io>`_ or the `django CMS Documentation
 <https://django-cms.readthedocs.io>`_.
