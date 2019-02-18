@@ -1,7 +1,7 @@
 {
     "identifier": "bootstrap3",
     "package-name": "djangocms-bootstrap3",
-    "version": "3.4.0",
+    "version": "3.4.1",
     "templates": [
         ["content.html", "content"]
     ],
